@@ -1,0 +1,54 @@
+body
+{
+  color: #61A4BC;
+  background: #F7E2E2;
+}
+span
+{
+  font-size: 30px;
+ 
+}
+#camera , #result
+{
+  border: 2px dashed #1A132F;
+  width: 350px;
+  height: 300px; 
+}
+#result_gesture_name ,#result_gesture_name2  
+{
+  color: #61A4BC;
+}
+.gesture_name
+{
+  font-size: 40px;
+}
+.gesture
+{
+  font-size:48px;
+}
+
+.heading{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+label{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 2px;
+  background-color: #5B7DB1;
+  color: #1A132F;
+  padding: 6px;
+}
+#capture{
+    background-color: #1A132F;
+    color: #5B7DB1;
+    border-radius: 3px;
+    padding: 5px;
+}
+#predict{
+    color: #1A132F;
+    background-color: #5B7DB1;
+    border-radius: 3px;
+    padding: 5px;
+}
